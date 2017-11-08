@@ -1,0 +1,992 @@
+,Transaction_date,Customer_info,Country,Product,Account_Created-Transaction_date
+0,2009-01-02 06:17:00,carolina Basildon,United Kingdom,Product1,1020000000000
+1,2009-01-02 04:53:00,Betina Parkville,United States,Product1,660000000000
+2,2009-01-02 13:08:00,Federica e Andrea Astoria,United States,Product1,74820000000000
+3,2009-01-03 14:44:00,Gouya Echuca,Australia,Product1,103311060000000000
+4,2009-01-04 12:56:00,Gerd W  CahabaHeights,United States,Product2,4309740000000000
+5,2009-01-04 13:19:00,LAURENCE Mickleton,United States,Product1,8805600000000000
+6,2009-01-04 20:11:00,Fleur Peoria,United States,Product1,124380000000000
+7,2009-01-02 20:09:00,adam Martin,United States,Product1,8760000000000
+8,2009-01-04 13:17:00,Renee Elisabeth TelAviv,Israel,Product1,840000000000
+9,2009-01-04 14:11:00,Aidan Chatou,France,Product1,18611340000000000
+10,2009-01-05 02:42:00,Stacy NewYork,United States,Product1,1140000000000
+11,2009-01-05 05:39:00,Heidi Eindhoven,Netherlands,Product1,2640000000000
+12,2009-01-02 09:16:00,Sean  ShavanoPark,United States,Product1,2640000000000
+13,2009-01-05 10:08:00,Georgia Eagle,United States,Product1,4731300000000000
+14,2009-01-02 14:18:00,Richard Riverside,United States,Product1,2081460000000000
+15,2009-01-04 01:05:00,Leanne Julianstown,Ireland,Product1,3900000000000
+16,2009-01-05 11:37:00,Janet Ottawa,Canada,Product1,7320000000000
+17,2009-01-06 05:02:00,barbara Hyderabad,India,Product1,8460000000000
+18,2009-01-06 07:45:00,Sabine London,United Kingdom,Product2,2700000000000
+19,2009-01-02 07:35:00,Hani SaltLakeCity,United States,Product1,265860000000000
+20,2009-01-06 12:56:00,Jeremy Manchester,United Kingdom,Product1,7080000000000
+21,2009-01-01 11:05:00,Janis Ballynora,Ireland,Product1,33517680000000000
+22,2009-01-05 04:10:00,Nicola Roodepoort,South Africa,Product1,5820000000000
+23,2009-01-06 07:18:00,asuman ChulaVista,United States,Product1,660000000000
+24,2009-01-02 01:11:00,Lena Kuopio,Finland,Product1,166980000000000
+25,2009-01-01 02:24:00,Lisa SugarLand,United States,Product1,1680000000000
+26,2009-01-07 08:08:00,Bryan Kerrene NewYork,United States,Product1,1740000000000
+27,2009-01-02 02:57:00,chris London,United Kingdom,Product1,31520040000000000
+28,2009-01-01 20:21:00,Maxine Morton,United States,Product1,6010380000000000
+29,2009-01-08 00:42:00,Family LosGatos,United States,Product1,840000000000
+30,2009-01-08 03:56:00,Katherine NewYork,United States,Product1,1380000000000
+31,2009-01-08 03:16:00,Linda Miami,United States,Product1,600000000000
+32,2009-01-08 01:59:00,SYLVIA Vesenaz,Switzerland,Product1,35128980000000000
+33,2009-01-03 09:03:00,Sheila Brooklyn,United States,Product1,960000000000
+34,2009-01-05 13:17:00,Stephanie Badhoevedorp,Netherlands,Product1,1920000000000
+35,2009-01-06 07:46:00,Kelly Reston,United States,Product1,960000000000
+36,2009-01-05 20:00:00,James Burpengary,Australia,Product2,2246820000000000
+37,2009-01-08 16:24:00,jennifer Phoenix,United States,Product1,1620000000000
+38,2009-01-09 06:39:00,Anneli Houston,United States,Product1,5400000000000
+39,2009-01-06 22:19:00,Ritz Pittsfield,United States,Product2,37140000000000
+40,2009-01-06 23:00:00,Sylvia Pittsfield,United States,Product2,39600000000000
+41,2009-01-07 07:44:00,Marie BallGround,United States,Product1,7740000000000
+42,2009-01-03 13:24:00,Mehmet Fatih Helsingor,Denmark,Product1,2220000000000
+43,2009-01-07 15:12:00,Anabela Flossmoor,United States,Product2,155820000000000
+44,2009-01-07 20:15:00,Nicole Houston,United States,Product1,10680000000000
+45,2009-01-03 10:11:00,Christiane  DelrayBeach,United States,Product2,2640000000000
+46,2009-01-09 15:58:00,Sari Newbury,United Kingdom,Product1,3900000000000
+47,2009-01-03 13:11:00,simone Kobenhavn,Denmark,Product1,5575200000000000
+48,2009-01-10 12:57:00,Vanessa SandySprings,United States,Product1,60712860000000000
+49,2009-01-10 14:43:00,Anupam Kinsaley,Ireland,Product1,97500000000000
+50,2009-01-10 12:05:00,Karina FortLauderdale,United States,Product1,16672320000000000
+51,2009-01-06 01:20:00,Frank Melbourne,Australia,Product1,286140000000000
+52,2009-01-10 14:56:00,Angela Ankeny,United States,Product1,215400000000000
+53,2009-01-07 10:01:00,Darren Pittsboro,United States,Product1,3420000000000
+54,2009-01-01 01:26:00,Nikki NewRochelle,United States,Product1,1680000000000
+55,2009-01-11 02:04:00,chris GoldCoast,Australia,Product1,5460000000000
+56,2009-01-11 14:17:00,Stephanie Brussels,Belgium,Product1,2280000000000
+57,2009-01-10 21:38:00,Anushka MapleRidgeDistrictMunicipality,Canada,Product1,1260000000000
+58,2009-01-07 06:18:00,June  Beachwood,United States,Product1,90613320000000000
+59,2009-01-04 08:39:00,Baybars PrinceAlbert,Canada,Product2,55320000000000
+60,2009-01-05 00:31:00,Bonnie Saltsjobaden,Sweden,Product1,2760000000000
+61,2009-01-02 06:07:00,Cindy  Kemble,United Kingdom,Product1,243960000000000
+62,2009-01-12 03:25:00,chrissy WLebanon,United States,Product1,780000000000
+63,2009-01-04 13:56:00,Tamar Headley,United Kingdom,Product1,34749180000000000
+64,2009-01-07 00:12:00,Deirdre Lausanne,Switzerland,Product2,3174420000000000
+65,2009-01-12 05:18:00,Bernadett Southampton,United Kingdom,Product1,1980000000000
+66,2009-01-08 15:16:00,Dottie Woodsboro,United States,Product1,1200000000000
+67,2009-01-11 11:33:00,Stefan Stavanger,Norway,Product1,9060000000000
+68,2009-01-07 20:22:00,Gina RedDeer,Canada,Product1,3891120000000000
+69,2009-01-02 22:00:00,Lynne Memphis,United States,Product1,3360000000000
+70,2009-01-05 13:52:00,Tammy Morges,Switzerland,Product1,28620000000000
+71,2009-01-08 20:32:00,Kim Calgary,Canada,Product1,660000000000
+72,2009-01-08 13:34:00,Bruce Belleville,Canada,Product1,168960000000000
+73,2009-01-11 13:08:00,Rosa Maria Cincinnati,United States,Product1,1800000000000
+74,2009-01-12 19:04:00,Lydia Comox,Canada,Product1,9843060000000000
+75,2009-01-12 13:41:00,Eric Gasperich,Luxembourg,Product1,1500000000000
+76,2009-01-11 10:38:00,AnaPaula HelensBay,United Kingdom,Product1,11149920000000000
+77,2009-01-13 05:57:00,Robin Milan,Italy,Product1,7777560000000000
+78,2009-01-13 06:13:00,Gitte StatenIsland,United States,Product1,3360000000000
+79,2009-01-08 13:14:00,Dr. Claudia Oslo,Norway,Product1,1620000000000
+80,2009-01-02 11:41:00,Crystal Farmington,United States,Product1,85260000000000
+81,2009-01-07 19:50:00,Delphine SantaMonica,United States,Product1,373560000000000
+82,2009-01-01 20:28:00,nathalie Calgary,Canada,Product1,1020000000000
+83,2009-01-03 15:22:00,Lindi Vancouver,Canada,Product1,27448620000000000
+84,2009-01-12 03:03:00,Valda Irvine,United States,Product2,900000000000
+85,2009-01-05 08:58:00,Marcia Telgte,Germany,Product2,10905540000000000
+86,2009-01-10 14:03:00,Kevin Cheltenham,United Kingdom,Product1,89370420000000000
+87,2009-01-13 11:26:00,Clare Keller,United States,Product1,660000000000
+88,2009-01-02 12:18:00,Alice Nakskov,Denmark,Product1,34044060000000000
+89,2009-01-14 04:54:00,ZENA Honolulu,United States,Product1,1200000000000
+90,2009-01-06 17:15:00,Andrea Bubuieci,Moldova,Product1,1122240000000000
+91,2009-01-03 13:56:00,Rennae AmeliaIsland,United States,Product1,5160000000000
+92,2009-01-04 07:54:00,Gerhard Alliston,Canada,Product1,101124300000000000
+93,2009-01-12 07:28:00,Megan LaAlberca,Spain,Product1,2818020000000000
+94,2009-01-06 15:15:00,Danielle Rathgar,Ireland,Product1,960000000000
+95,2009-01-13 23:56:00,Tod CoralGables,United States,Product1,2580000000000
+96,2009-01-14 19:32:00,Janaina Miami,United States,Product1,2495580000000000
+97,2009-01-06 21:13:00,Kofi Vancouver,Canada,Product1,31535820000000000
+98,2009-01-14 11:19:00,Jennifer Jumeira,United Arab Emirates,Product1,2100000000000
+99,2009-01-13 19:39:00,Jolene  Englewood,United States,Product1,596340000000000
+100,2009-01-08 07:26:00,anne Bournemouth,United Kingdom,Product1,30123600000000000
+101,2009-01-15 02:40:00,Alexis Genoa,United States,Product1,2160000000000
+102,2009-01-12 06:40:00,Dez Al'Adliyah,Bahrain,Product1,150600000000000
+103,2009-01-15 03:43:00,Stephanie Rouen,France,Product1,1708920000000000
+104,2009-01-05 15:39:00,Melissa  Parkland,United States,Product1,2269500000000000
+105,2009-01-10 05:21:00,CLARE SanFrancisco,United States,Product1,18840000000000
+106,2009-01-15 04:12:00,catherine Keller,United States,Product1,600000000000
+107,2009-01-12 11:48:00,Veronique  Tsawwassen,Canada,Product1,14846400000000000
+108,2009-01-06 10:48:00,Bruce and Camille Clinton,United States,Product1,43507740000000000
+109,2009-01-14 09:10:00,Ellen Owensboro,United States,Product1,2700000000000
+110,2009-01-14 22:44:00,Amy LakewoodVillage,United States,Product1,1380000000000
+111,2009-01-06 07:23:00,Anna Okotoks,Canada,Product1,14584800000000000
+112,2009-01-01 05:04:00,Regina Glimmen,Netherlands,Product1,190774500000000000
+113,2009-01-15 11:56:00,Heidi Calgary,Canada,Product1,96000000000000
+114,2009-01-15 11:58:00,Jessica Kanata,Canada,Product1,107940000000000
+115,2009-01-12 09:43:00,Petra Bergen,Germany,Product1,435840000000000
+116,2009-01-15 12:33:00,Brian CollegePark,United States,Product1,840000000000
+117,2009-01-14 11:35:00,Kenny KailuaKona,United States,Product1,64380000000000
+118,2009-01-14 15:40:00,ayse RedondoBeach,United States,Product1,72180000000000
+119,2009-01-03 11:08:00,Maria and Timothy FountainHls,United States,Product1,81433560000000000
+120,2009-01-12 01:37:00,IMAN Brisbane,Australia,Product1,660000000000
+122,2009-01-15 12:54:00,Annelies Ile-Perrot,Canada,Product1,1920000000000
+123,2009-01-07 07:19:00,Jocelyn Bruxelles,Belgium,Product1,16494360000000000
+124,2009-01-03 09:56:00,Kara Chicago,United States,Product1,235800000000000
+125,2009-01-16 17:41:00,Orsi Rayford,United States,Product1,2400000000000
+126,2009-01-05 05:33:00,Ben Escondido,United States,Product1,8040000000000
+127,2009-01-02 00:50:00,Sam Tesvikiye,Turkey,Product1,2400000000000
+128,2009-01-13 01:51:00,Filip and Teresa Centurion,South Africa,Product1,87060000000000
+129,2009-01-15 10:24:00,Grace  York,United Kingdom,Product1,165240000000000
+130,2009-01-11 08:59:00,Chelsey  Ashburn,United States,Product1,5454360000000000
+131,2009-01-15 15:56:00,Charis LosAngeles,United States,Product1,100325220000000000
+132,2009-01-01 12:19:00,Marlene Edgewood,United States,Product1,93389640000000000
+133,2009-01-06 14:03:00,Fie NewYork,United States,Product1,21620220000000000
+134,2009-01-09 15:32:00,Nicole  Basingstoke,United Kingdom,Product1,183660000000000
+135,2009-01-17 12:59:00,Linda DenHaag,Netherlands,Product1,6911400000000000
+136,2009-01-12 12:37:00,Janet Marietta,United States,Product1,42070620000000000
+137,2009-01-04 07:43:00,Jamie Houston,United States,Product1,3120000000000
+138,2009-01-17 16:22:00,Chad WestOrange,United States,Product1,3600000000000
+139,2009-01-01 03:51:00,sunny Amsterdam,Netherlands,Product1,104043480000000000
+140,2009-01-18 05:27:00,Anna Downey,United States,Product1,3540000000000
+141,2009-01-18 05:15:00,Roger Urlingford,Ireland,Product1,1860000000000
+142,2009-01-01 01:51:00,Si Holte,Denmark,Product1,96199500000000000
+143,2009-01-18 06:30:00,Sherri Freienbach,Switzerland,Product1,18116400000000000
+144,2009-01-11 10:51:00,Katherine HofheimamTaunus,Germany,Product1,3143820000000000
+145,2009-01-04 17:02:00,Clare Lafayette,United States,Product1,95098020000000000
+146,2009-01-17 01:23:00,Campbell Mushrif,Kuwait,Product1,39420000000000
+147,2009-01-18 02:16:00,Ruth Nashville,United States,Product1,110640000000000
+148,2009-01-18 11:34:00,Cheryl NewMalden,United Kingdom,Product2,101767020000000000
+149,2009-01-18 04:38:00,Doug BishopAuckland,United Kingdom,Product1,33404340000000000
+150,2009-01-18 13:26:00,Julianne Navan,Ireland,Product3,3960000000000
+151,2009-01-18 11:53:00,Shailesh Joppa,United States,Product1,42780000000000
+152,2009-01-18 12:04:00,Conrad Joppa,United States,Product1,43440000000000
+153,2009-01-13 19:54:00,Alison Hampton,United States,Product1,95607900000000000
+154,2009-01-05 21:06:00,Tracy Louisville,United States,Product1,16740000000000
+155,2009-01-14 06:32:00,Kate Broadlands,United States,Product1,87092280000000000
+156,2009-01-04 23:48:00,Sarka Yellowknife,Canada,Product1,4020000000000
+157,2009-01-18 16:32:00,Therese LosAngeles,United States,Product2,540000000000
+158,2009-01-18 17:04:00,Abdul-L NewYork,United States,Product2,360000000000
+159,2009-01-18 17:20:00,heidi SaintPaul,United States,Product2,240000000000
+160,2009-01-18 17:39:00,jiyoung NewYork,United States,Product2,300000000000
+161,2009-01-11 11:20:00,Klara SpringLakePark,United States,Product1,919920000000000
+162,2009-01-13 20:59:00,Andrew Winnipeg,Canada,Product1,15300000000000
+163,2009-01-12 16:50:00,Vicki and Bill Seattle,United States,Product1,674220000000000
+164,2009-01-12 15:12:00,David Deptford,United States,Product1,3900000000000
+165,2009-01-06 12:27:00,Antonella Amsterdam,Netherlands,Product1,1380000000000
+166,2009-01-09 18:52:00,David Alpharetta,United States,Product1,3927360000000000
+167,2009-01-18 23:17:00,Greg Washington,United States,Product1,28740000000000
+168,2009-01-07 08:21:00,Jannik  Holmenkollen,Norway,Product1,335700000000000
+169,2009-01-03 09:54:00,Sylvia Zekeriyakoy,Turkey,Product1,429360000000000
+170,2009-01-05 19:37:00,Bernadette Washington,United States,Product1,36755280000000000
+171,2009-01-04 12:49:00,Denise Montreal,Canada,Product1,50982660000000000
+172,2009-01-08 11:55:00,Caren Braunschweig,Germany,Product2,429360000000000
+173,2009-01-14 18:21:00,luciana Athens,United States,Product1,104327760000000000
+174,2009-01-11 19:01:00,Maja Hoschton,United States,Product1,2640000000000
+175,2009-01-14 05:20:00,Kristen Binningen,Switzerland,Product2,143340000000000
+176,2009-01-15 08:07:00,Kirstie RoyalOak,United States,Product1,2809920000000000
+177,2009-01-15 08:10:00,Scott  RoyalOak,United States,Product1,2810100000000000
+178,2009-01-02 17:45:00,Jammie Belmont,United States,Product1,96769560000000000
+179,2009-01-19 16:10:00,Frank OldGreenwich,United States,Product1,2340000000000
+180,2009-01-19 16:55:00,scott CoconutGrove,United States,Product1,2220000000000
+181,2009-01-10 17:41:00,Jiri Vienna,United States,Product1,4140000000000
+182,2009-01-18 13:49:00,Bev SanRamon,United States,Product2,611340000000000
+183,2009-01-15 05:47:00,Dave and Amy Norfolk,United States,Product1,19560000000000
+184,2009-01-19 23:06:00,Rebecca Norfolk,United States,Product1,780000000000
+185,2009-01-19 11:12:00,Melissa Aberdeen,United Kingdom,Product1,12538200000000000
+186,2009-01-04 01:38:00,jeremy Charlestown,Australia,Product1,14877240000000000
+187,2009-01-20 03:11:00,Randy Wigan,United Kingdom,Product1,540000000000
+188,2009-01-03 10:52:00,Djeiny Rockville,United States,Product1,117163500000000000
+189,2009-01-20 06:03:00,Andrea  Shreveport,United States,Product1,3000000000000
+190,2009-01-10 11:37:00,Joanna LittleSilver,United States,Product1,1092420000000000
+191,2009-01-20 05:50:00,Jessica AbbeyTown,United Kingdom,Product1,5220000000000
+192,2009-01-19 16:32:00,alison MidCityWest,United States,Product1,22080000000000
+193,2009-01-18 10:42:00,malin Atlanta,United States,Product1,38520000000000
+194,2009-01-07 06:11:00,Tiffany  Paris,France,Product2,2460000000000
+195,2009-01-03 08:29:00,Genevieve MiltonKeynes,United Kingdom,Product1,7369380000000000
+196,2009-01-01 02:09:00,Saraya Dresden,Germany,Product1,88612680000000000
+197,2009-01-20 12:34:00,Anastasia NYC,United States,Product1,1020000000000
+198,2009-01-20 03:51:00,Elizabeth TheGrange,Australia,Product1,5962620000000000
+199,2009-01-15 11:26:00,Nicole Brookline,United States,Product1,47866080000000000
+200,2009-01-05 16:55:00,Jeffrey Montreal-Nord,Canada,Product1,166319220000000000
+201,2009-01-12 19:47:00,Blanca Gabriela  Irving,United States,Product1,2843880000000000
+202,2009-01-04 19:20:00,Elisa OttawaHills,United States,Product1,2520000000000
+203,2009-01-10 08:33:00,Patricia  PortolaValley,United States,Product2,60992640000000000
+204,2009-01-09 14:51:00,Bob Sydney,Australia,Product1,160560000000000
+205,2009-01-16 02:41:00,Kristyn Kearns,United States,Product3,31200000000000
+206,2009-01-16 18:36:00,Elizabeth Wollongong,Australia,Product1,6573840000000000
+207,2009-01-20 08:10:00,Cathy Brooklyn,United States,Product1,46099080000000000
+208,2009-01-06 12:45:00,Kaylee Penngrove,United States,Product2,81540000000000
+209,2009-01-10 08:13:00,suzanne Lemont,United States,Product1,46680000000000
+210,2009-01-07 14:15:00,Cassandra SanCarlos,United States,Product1,167580000000000
+211,2009-01-08 15:27:00,Jennifer Chicago,United States,Product1,320700000000000
+212,2009-01-21 11:36:00,nicole Oslo,Norway,Product1,2504040000000000
+213,2009-01-21 14:06:00,Sean Wantagh,United States,Product1,7560000000000
+214,2009-01-02 02:28:00,Morgan Coomera,Australia,Product1,21075240000000000
+215,2009-01-19 19:07:00,Harriet FortOglethorpe,United States,Product1,8100000000000
+216,2009-01-18 06:27:00,Janine CorbinCity,United States,Product1,101819100000000000
+217,2009-01-20 11:58:00,Debora Lakeside,United States,Product1,6871440000000000
+218,2009-01-20 16:32:00,Vishpala Margate,United States,Product1,33201600000000000
+219,2009-01-01 07:09:00,Emer SouthPalmBeach,United States,Product1,121224540000000000
+220,2009-01-21 14:55:00,john NewYork,United States,Product1,16320000000000
+221,2009-01-07 22:29:00,lailani Anchorage,United States,Product1,32760000000000
+222,2009-01-11 22:22:00,STEPHANIE MonaVale,Australia,Product2,1053240000000000
+223,2009-01-21 14:25:00,Tricia Castricum,Netherlands,Product1,33692220000000000
+224,2009-01-18 16:50:00,Celina NorthBrunswick,United States,Product1,1500000000000
+225,2009-01-21 12:08:00,Rosemary Jacksonville,United States,Product2,1740000000000
+226,2009-01-22 06:41:00,Patrick Baytown,United States,Product1,7740000000000
+227,2009-01-12 09:23:00,Jacob WinterHaven,United States,Product1,152880000000000
+228,2009-01-22 08:23:00,elisabeth GonzagaUniv,United States,Product1,1680000000000
+229,2009-01-03 06:41:00,ayelet Malmo,Sweden,Product2,12863820000000000
+230,2009-01-01 12:20:00,seemab SanPawltat-Targa,Malta,Product2,103884480000000000
+231,2009-01-04 22:00:00,Lucien Wiesbaden,Germany,Product2,37680000000000
+232,2009-01-21 02:15:00,Kevin  London,United Kingdom,Product1,1121100000000000
+233,2009-01-01 14:22:00,Liban Stavanger,Norway,Product1,16947240000000000
+234,2009-01-16 01:07:00,Lesley Cork,Ireland,Product2,161820000000000
+235,2009-01-20 08:51:00,Marie Winchester,United States,Product1,15616320000000000
+236,2009-01-04 09:02:00,Charlene Calgary,Canada,Product1,1863720000000000
+237,2009-01-06 08:34:00,Orit Dallas,United States,Product1,63240000000000
+238,2009-01-08 04:16:00,Alan Malahide,Ireland,Product1,86021400000000000
+239,2009-01-23 03:33:00,Anja Langer SaintPaul,United States,Product2,1980000000000
+240,2009-01-06 04:18:00,Lina Edinburgh,United Kingdom,Product1,2400000000000
+241,2009-01-23 03:30:00,Larry Naarden,Netherlands,Product1,180000000000
+242,2009-01-10 04:04:00,Jessica Oldenburg,Germany,Product1,1797780000000000
+243,2009-01-05 02:57:00,Marion Rennes,France,Product3,603660000000000
+244,2009-01-21 14:15:00,Eric Ely,United States,Product1,1140000000000
+245,2009-01-21 06:39:00,Miriane Norfolk,United States,Product1,46690140000000000
+246,2009-01-19 08:14:00,Jeff Houston,United States,Product1,1280100000000000
+247,2009-01-23 08:00:00,christina Chepel,Hungary,Product1,79500000000000
+248,2009-01-22 23:35:00,Shannon BuffaloGrove,United States,Product1,720000000000
+249,2009-01-14 03:09:00,Angela Newburgh,United Kingdom,Product1,54424860000000000
+250,2009-01-16 01:51:00,Angela Vienna,Austria,Product1,780000000000
+251,2009-01-01 06:29:00,Elaine Vicenza,Italy,Product1,44682060000000000
+252,2009-01-21 07:59:00,Helen MechanicsGrove,United States,Product1,24936240000000000
+253,2009-01-23 07:37:00,Fatisha Miami,United States,Product2,3900000000000
+254,2009-01-18 14:39:00,Nina SilverSpring,United States,Product1,1119360000000000
+255,2009-01-24 09:01:00,Barbara Kirriemuir,United Kingdom,Product2,3540000000000
+256,2009-01-15 01:41:00,Karen Roquefort,France,Product1,77280000000000
+257,2009-01-17 07:23:00,Georgina Portland,United States,Product1,35932680000000000
+258,2009-01-23 11:37:00,Kellie StatenIsland,United States,Product1,3300000000000
+259,2009-01-19 15:02:00,Terry SanAntonio,United States,Product1,1140000000000
+260,2009-01-11 07:10:00,LAURIE Guildford,United Kingdom,Product2,89947380000000000
+261,2009-01-10 03:28:00,frauke Horten,Norway,Product1,4016280000000000
+262,2009-01-07 19:03:00,Cindy Englewood,United States,Product2,33433680000000000
+263,2009-01-17 14:02:00,Simone SanAntonio,United States,Product1,98216040000000000
+264,2009-01-25 00:09:00,Hilde  Princeville,United States,Product1,18842460000000000
+265,2009-01-09 14:27:00,Leah Castleknock,Ireland,Product1,49684380000000000
+266,2009-01-09 14:32:00,Laine Castleknock,Ireland,Product1,49684680000000000
+267,2009-01-11 15:59:00,kirsten BishopsStortford,United Kingdom,Product1,94201680000000000
+268,2009-01-06 14:38:00,Elizabeth DenHaag,Netherlands,Product2,52105800000000000
+269,2009-01-06 09:52:00,Anna Lafayette,United States,Product1,240660000000000
+270,2009-01-01 09:21:00,Babs Blackpool,United Kingdom,Product1,4560000000000
+271,2009-01-03 07:58:00,Gerlinde Hellerup,Denmark,Product1,70260000000000
+272,2009-01-11 11:36:00,Hollyn London,United Kingdom,Product1,7679580000000000
+273,2009-01-13 14:53:00,leiser NJava,United States,Product1,5460000000000
+274,2009-01-01 10:06:00,Irene Munich,Germany,Product2,3180000000000
+275,2009-01-16 05:07:00,Lisa Brulon,France,Product1,45695940000000000
+276,2009-01-06 16:37:00,Ann Austin,United States,Product1,792360000000000
+277,2009-01-18 17:21:00,Nichol Jane MidlandPark,United States,Product1,591720000000000
+278,2009-01-13 15:18:00,Beatriz Centerport,United States,Product1,1920000000000
+279,2009-01-24 08:21:00,corina NeustiftamWalde,Austria,Product1,111008340000000000
+280,2009-01-24 08:25:00,manon NeustiftamWalde,Austria,Product1,111008580000000000
+281,2009-01-18 13:06:00,Isabelle Shorewood,United States,Product1,15720000000000
+282,2009-01-22 18:44:00,Lynne Southlake,United States,Product1,4800000000000
+283,2009-01-08 08:58:00,Doug Huntington,United States,Product1,2160000000000
+284,2009-01-04 09:54:00,AMY TheWoodlands,United States,Product1,393180000000000
+285,2009-01-13 20:22:00,Kim Kelowna,Canada,Product1,14190840000000000
+286,2009-01-09 10:22:00,HELIDA WhiteHouse,United States,Product1,329580000000000
+287,2009-01-05 12:28:00,Cameron Rungsted,Denmark,Product1,1560000000000
+288,2009-01-26 03:43:00,Wendy LakeMahopac,United States,Product1,1980000000000
+289,2009-01-26 03:49:00,Jane Biot,France,Product2,28612140000000000
+290,2009-01-11 13:16:00,shelby Plantation,United States,Product2,3360000000000
+291,2009-01-22 15:32:00,Tara Killiney,Ireland,Product1,60062220000000000
+292,2009-01-09 14:25:00,James Guer,France,Product1,23984700000000000
+294,2009-01-01 14:19:00,Gabriel ThreeHills,Canada,Product1,19449600000000000
+295,2009-01-26 04:30:00,Jodie  GreatFalls,United States,Product1,16200000000000
+296,2009-01-07 04:45:00,Jeremy London,United Kingdom,Product1,900000000000
+297,2009-01-11 12:12:00,Helga Clontarf,Ireland,Product1,98320920000000000
+298,2009-01-26 10:24:00,Eleanor Vancouver,Canada,Product1,4809240000000000
+299,2009-01-26 08:58:00,Miss London,United Kingdom,Product1,720000000000
+300,2009-01-07 17:51:00,Marie Dickerson,United States,Product1,94205580000000000
+301,2009-01-18 20:16:00,Lisa Princeton,United States,Product1,1740000000000
+302,2009-01-13 09:51:00,Priska Calgary,Canada,Product1,727680000000000
+303,2009-01-24 18:43:00,Katrine NorthTustin,United States,Product1,1141800000000000
+304,2009-01-05 00:46:00,Lisa Gurgaon,India,Product1,250980000000000
+305,2009-01-09 01:12:00,Sabrina Rambouillet,France,Product1,17692620000000000
+306,2009-01-26 06:25:00,prof Gladwyne,United States,Product1,604020000000000
+307,2009-01-21 16:57:00,KeithMichelle Houston,United States,Product1,1200000000000
+308,2009-01-05 05:33:00,Kim London,United Kingdom,Product1,97085460000000000
+309,2009-01-27 05:10:00,anissa Slough,United Kingdom,Product1,1018980000000000
+310,2009-01-07 08:00:00,john Glan-Munchweiler,Germany,Product1,114224400000000000
+311,2009-01-20 07:08:00,Miye Downingtown,United States,Product2,82920000000000
+312,2009-01-27 02:26:00,Heidi MTPleasant,United States,Product1,600000000000
+313,2009-01-05 06:14:00,T Veigy-Foncenex,France,Product1,4920000000000
+314,2009-01-13 08:11:00,Daniele Katy,United States,Product2,19948200000000000
+315,2009-01-10 09:18:00,luisa Gorey,Jersey,Product1,84407700000000000
+316,2009-01-08 18:52:00,Nadine Belgrade,United States,Product1,98520000000000
+317,2009-01-12 10:06:00,Tina Calgary,Canada,Product1,157860000000000
+318,2009-01-01 19:25:00,Damali Toronto,Canada,Product1,31013040000000000
+319,2009-01-27 15:28:00,Katherine Corrales,United States,Product1,855360000000000
+320,2009-01-02 18:43:00,Kathryn Cork,Ireland,Product1,961440000000000
+321,2009-01-08 18:41:00,Veronique Tenafly,United States,Product1,34216920000000000
+322,2009-01-04 18:34:00,Erica Leesburg,United States,Product1,6060000000000
+323,2009-01-25 08:32:00,L Alcona,Canada,Product1,42821460000000000
+324,2009-01-23 22:19:00,Diana KualaLumpur,Malaysia,Product1,540000000000
+325,2009-01-07 10:03:00,Emma Sydney,Australia,Product1,3210840000000000
+326,2009-01-18 03:46:00,Marina Nerang,Australia,Product1,10320000000000
+327,2009-01-28 00:40:00,Natalie  Bryceville,United States,Product1,9360000000000
+328,2009-01-02 15:18:00,Brenda SaffronWalden,United Kingdom,Product1,136905000000000000
+329,2009-01-18 13:59:00,Nita Sutton,Ireland,Product1,98820120000000000
+330,2009-01-16 09:54:00,Marian Durban,South Africa,Product1,14312040000000000
+331,2009-01-28 07:07:00,Kevin Berkeswell,United Kingdom,Product1,600000000000
+332,2009-01-28 07:31:00,cari Dryden,United States,Product1,540000000000
+333,2009-01-18 12:32:00,Cassandra Santry,Ireland,Product1,3017160000000000
+334,2009-01-13 14:05:00,Christof and Heidi Barcelona,Spain,Product1,367860000000000
+335,2009-01-28 07:49:00,Ina Fayetteville,United States,Product1,240000000000
+336,2009-01-28 03:07:00,Lisa AnseComeau,Canada,Product1,141600000000000
+337,2009-01-12 15:16:00,Camille and Carmen Thorlakshofn,Iceland,Product1,12900000000000
+338,2009-01-06 11:17:00,Trina Overland,United States,Product2,27656640000000000
+339,2009-01-23 09:49:00,Ginger KingCity,Canada,Product1,5460000000000
+340,2009-01-24 04:01:00,breon LeightonBuzzard,United Kingdom,Product1,96138300000000000
+341,2009-01-25 18:21:00,Marion Umea,Sweden,Product1,6360000000000
+342,2009-01-15 10:51:00,Pia  Sola,Norway,Product1,352620000000000
+343,2009-01-02 05:14:00,Dr. Donald Stockton-on-Tees,United Kingdom,Product1,126313860000000000
+344,2009-01-09 10:35:00,Jenna and Paul Senatobia,United States,Product2,73980000000000
+345,2009-01-04 10:16:00,Rebecca Berlin,Germany,Product1,602760000000000
+346,2009-01-02 12:16:00,Monique Waldorf,United States,Product1,1922400000000000
+347,2009-01-28 12:31:00,lilia  Brooklyn,United States,Product1,600000000000
+348,2009-01-14 12:07:00,Lainey Lakeville,United States,Product1,49140000000000
+349,2009-01-16 07:20:00,Jag Saint-Cergues,France,Product2,95220000000000
+350,2009-01-06 09:55:00,Charlene  Vancouver,Canada,Product1,7844400000000000
+351,2009-01-07 12:55:00,Fiona Stamford,United States,Product1,196140000000000
+352,2009-01-19 12:14:00,burt Rathfarnham,Ireland,Product1,21964020000000000
+353,2009-01-13 15:19:00,Maggie Paris,France,Product2,48940680000000000
+354,2009-01-18 08:56:00,Stanford Howell,United States,Product1,30570000000000000
+355,2009-01-04 17:54:00,ruth Encinitas,United States,Product1,286920000000000
+356,2009-01-05 13:46:00,Courtney Atchison,United States,Product1,4750020000000000
+357,2009-01-05 10:49:00,Courtney Mililani,United States,Product2,43325340000000000
+358,2009-01-12 18:24:00,Anthony Victor,United States,Product1,2200200000000000
+359,2009-01-18 04:01:00,Eleanor Fairbanks,United States,Product1,1050180000000000
+360,2009-01-16 10:58:00,GAIA Soro,Denmark,Product1,46582560000000000
+361,2009-01-13 08:20:00,Zane Warlingham,United Kingdom,Product1,121919340000000000
+362,2009-01-12 01:42:00,Beate Hamburg,Germany,Product1,409560000000000
+363,2009-01-28 13:07:00,BALA Accokeek,United States,Product1,36832260000000000
+364,2009-01-29 05:43:00,Mrs Sunnyvale,United States,Product1,1500000000000
+365,2009-01-29 05:30:00,Vanessa Ithaca,United States,Product1,2460000000000
+366,2009-01-13 18:08:00,Amanda Houston,United States,Product1,3960000000000
+367,2009-01-09 15:24:00,alex  FarmingtnHls,United States,Product1,5100000000000
+368,2009-01-23 15:33:00,T Brooklyn,United States,Product1,4500000000000
+369,2009-01-29 12:28:00,Alva and Martin GreatFalls,United States,Product1,53472660000000000
+370,2009-01-13 11:31:00,Anett Gosport,United Kingdom,Product1,345660000000000
+371,2009-01-29 10:09:00,Jacqui Scottsdale,United States,Product2,600000000000
+372,2009-01-29 15:08:00,KERRY Sunnyvale,United States,Product1,3840000000000
+373,2009-01-04 05:12:00,DeeDee Songnae-dong,South Korea,Product1,419520000000000
+374,2009-01-22 22:16:00,leanne ClydeHill,United States,Product2,427680000000000
+375,2009-01-05 19:26:00,katie Ruschlikon,Switzerland,Product1,720000000000
+376,2009-01-11 12:22:00,Marina Minneapolis,United States,Product1,18240000000000
+377,2009-01-02 09:31:00,camilla Chicago,United States,Product1,1320000000000
+378,2009-01-05 11:21:00,pirunkit Petworth,United Kingdom,Product1,20100000000000
+379,2009-01-17 09:49:00,Kathrin AbuDhabi,United Arab Emirates,Product1,28043220000000000
+380,2009-01-28 01:38:00,Kate Stockholm,Sweden,Product1,56378400000000000
+381,2009-01-19 10:32:00,Maie QueenCreek,United States,Product1,1096500000000000
+383,2009-01-07 18:53:00,Marie-Christine Durham,United States,Product1,809640000000000
+384,2009-01-26 11:38:00,Gabriella Austin,United States,Product1,15720000000000
+385,2009-01-08 13:19:00,valerie et nicolas GlennDale,United States,Product1,28080000000000
+386,2009-01-11 14:56:00,Nicole Aardal,Norway,Product1,551100000000000
+387,2009-01-30 20:36:00,Renee Edinburg,United States,Product1,1860000000000
+388,2009-01-01 08:09:00,Nicole SouthMelbourne,Australia,Product1,198840000000000
+389,2009-01-17 11:09:00,Joachim Fortaleza,Brazil,Product1,1380000000000
+390,2009-01-31 07:22:00,Monica  Weston,United States,Product1,29080080000000000
+391,2009-01-31 09:12:00,Nanci Reading,United Kingdom,Product1,13474200000000000
+392,2009-01-31 08:56:00,Laura CoconutGrove,United States,Product1,3180000000000
+393,2009-01-31 09:00:00,ciara and mike London,United Kingdom,Product1,1680000000000
+394,2009-01-11 14:07:00,Sarah SanFrancisco,United States,Product1,3540000000000
+395,2009-01-01 12:25:00,Anne-line Zug,Switzerland,Product2,118674660000000000
+396,2009-01-31 11:14:00,Ulrika Scottsdale,United States,Product2,240000000000
+397,2009-01-02 09:57:00,leigh PotomacFalls,United States,Product1,121970220000000000
+398,2009-01-04 13:20:00,Nuria Superior,United States,Product1,4320000000000
+399,2009-01-22 12:32:00,Tejal London,United Kingdom,Product1,33360060000000000
+400,2009-01-18 06:09:00,Ignacio Engleside,United States,Product1,52485180000000000
+401,2009-01-08 00:04:00,ZOE NewPlymouthCity,New Zealand,Product1,1800000000000
+402,2009-01-24 07:14:00,nihan Roanoke,United States,Product1,28337940000000000
+403,2009-01-24 11:05:00,alan Norcross,United States,Product1,46986540000000000
+404,2009-01-06 15:12:00,lydia SandyPlains,United States,Product1,72253800000000000
+405,2009-01-24 17:06:00,Tracey SaintCatharines,Canada,Product1,4500000000000
+406,2009-01-03 09:58:00,Anja Gainesville,United States,Product1,6571860000000000
+407,2009-01-09 16:35:00,Jennifer Nordstrand,Norway,Product1,95670540000000000
+408,2009-01-12 14:50:00,Holly Arlington,United States,Product1,17760000000000
+409,2009-01-07 13:49:00,megan WestHills,United States,Product1,4380000000000
+410,2009-01-09 19:41:00,Tarah SanJose,United States,Product1,351540000000000
+411,2009-01-26 04:53:00,Gerardo London,United Kingdom,Product1,2460000000000
+412,2009-01-23 21:41:00,Joanne OakPark,United States,Product1,2457660000000000
+413,2009-01-06 16:07:00,Margaret TerrellHills,United States,Product1,1395960000000000
+414,2009-01-10 07:55:00,Laura Jumeira,United Arab Emirates,Product1,252480000000000
+415,2009-01-28 20:44:00,Whitney Falmouth,United States,Product1,4080000000000
+416,2009-01-09 03:38:00,Ravinder Lurgan,United Kingdom,Product1,19005360000000000
+417,2009-01-19 08:52:00,Pam Richmond,United States,Product1,1099680000000000
+418,2009-01-15 07:26:00,Celina DenHaag,Netherlands,Product1,113160000000000
+419,2009-01-30 19:12:00,Heather Ooltewah,United States,Product1,1080000000000
+420,2009-01-05 12:41:00,Kathryn PacificBeach,United States,Product1,3060000000000
+421,2009-01-28 20:59:00,Michele  Austin,United States,Product1,40740000000000
+422,2009-01-10 21:36:00,Craig Seattle,United States,Product1,13236540000000000
+423,2009-01-25 19:59:00,Kim Seattle,United States,Product1,14261520000000000
+424,2009-01-07 08:03:00,maria Ottawa,Canada,Product1,117538500000000000
+425,2009-01-21 09:07:00,Elaine Vienna,United States,Product1,25398480000000000
+426,2009-01-23 14:43:00,Madison Torbay,New Zealand,Product1,443340000000000
+427,2009-01-05 13:07:00,Amanda Shenfield,United Kingdom,Product1,254400000000000
+428,2009-01-06 03:39:00,Krista Bergen,Norway,Product1,104031660000000000
+429,2009-01-15 15:26:00,Sarah Bolton,United Kingdom,Product1,25800000000000
+430,2009-01-23 04:47:00,Sarah Sandymount,Ireland,Product1,95284740000000000
+431,2009-01-12 10:05:00,Pamela Bellinzona,Switzerland,Product2,42928920000000000
+432,2009-01-30 05:13:00,Christine Antwerpen,Belgium,Product1,96995760000000000
+433,2009-01-14 10:32:00,Diana Campinas,Brazil,Product3,6060540000000000
+434,2009-01-12 08:13:00,mary Nacka,Sweden,Product1,89955660000000000
+435,2009-01-27 08:11:00,Helena Fremont,United States,Product1,360000000000
+436,2009-01-30 17:33:00,nina Warwick,Australia,Product1,413820000000000
+437,2009-01-15 09:52:00,Mark Holmdel,United States,Product1,4560000000000
+438,2009-01-13 11:54:00,alice and rudolf Baltimore,United States,Product1,434580000000000
+439,2009-01-21 11:00:00,Costanza Saggart,Ireland,Product1,175740000000000
+440,2009-01-16 11:49:00,Yoko Andover,United States,Product1,28745580000000000
+441,2009-01-01 09:35:00,Barbara LaCrescenta,United States,Product1,56640000000000
+442,2009-01-13 05:58:00,Kit Suwanee,United States,Product1,636360000000000
+443,2009-01-06 16:08:00,cristina Seattle,United States,Product2,120439740000000000
+444,2009-01-05 10:25:00,linda Arlington,United States,Product1,7454100000000000
+445,2009-01-04 21:08:00,Christyna Calgary,Canada,Product1,30157020000000000
+446,2009-01-12 20:43:00,Alicja  Kenmore,United States,Product1,720000000000
+447,2009-01-17 03:22:00,Rachel Fresno,United States,Product1,30292620000000000
+448,2009-01-18 11:17:00,Rachel Atascadero,United States,Product1,27034920000000000
+449,2009-01-27 09:01:00,Jan Barcelona,Spain,Product1,20983080000000000
+450,2009-01-08 08:11:00,Karin HighWycombe,United Kingdom,Product1,4260000000000
+451,2009-01-26 23:28:00,ron  Tsaritsyno,Russia,Product2,67532520000000000
+452,2009-01-10 21:35:00,Sharon Ajax,Canada,Product1,13533480000000000
+453,2009-01-11 06:01:00,Anna NewYork,United States,Product1,848220000000000
+454,2009-01-19 14:53:00,Laura Fairfield,United States,Product1,3317700000000000
+455,2009-01-22 07:14:00,Yana NorthBay,Canada,Product1,72013920000000000
+456,2009-01-15 08:12:00,Katherine Marietta,United States,Product1,166140000000000
+457,2009-01-07 06:33:00,Therese Clontarf,Ireland,Product1,17792700000000000
+458,2009-01-12 08:05:00,Francoise  Danville,United States,Product1,4860000000000
+459,2009-01-28 13:03:00,Elizabeth Okotoks,Canada,Product2,12118200000000000
+460,2009-01-25 08:54:00,Corinne Anthem,United States,Product1,89479320000000000
+461,2009-01-05 10:08:00,Ec Clonmel,Ireland,Product1,8460000000000
+462,2009-01-05 19:29:00,Carmen Arlington,United States,Product1,21698400000000000
+463,2009-01-07 19:06:00,Brittany Orlando,United States,Product2,139246560000000000
+464,2009-01-23 11:33:00,Sandrine WalnutCreek,United States,Product1,43320000000000
+465,2009-01-03 21:11:00,asuncion  Centennial,United States,Product1,2707860000000000
+466,2009-01-11 17:28:00,Sophie Newtown,United States,Product1,20280000000000
+467,2009-01-21 20:18:00,Henrietta Vancouver,Canada,Product1,48803100000000000
+468,2009-01-24 10:23:00,DD York,United Kingdom,Product1,13641900000000000
+469,2009-01-07 14:55:00,Jennifer Drogheda,Ireland,Product1,72533760000000000
+470,2009-01-29 10:38:00,samuel SaddleBrook,United States,Product1,5400000000000
+471,2009-01-08 14:04:00,Angelina  Patrick SanDiego,United States,Product1,75780000000000
+472,2009-01-31 21:50:00,Sven Issaquah,United States,Product1,2940000000000
+473,2009-01-01 16:00:00,Toni Bolton,United Kingdom,Product1,7432860000000000
+474,2009-01-30 13:13:00,Patrick Lexington,United States,Product1,1740000000000
+475,2009-01-27 16:50:00,jason Altadena,United States,Product1,2599680000000000
+477,2009-01-17 15:48:00,Aline Davis,United States,Product2,127014300000000000
+478,2009-01-12 11:40:00,Debra Toronto,Canada,Product2,1140060000000000
+479,2009-01-30 20:27:00,Natasha Pasadena,United States,Product1,1500000000000
+480,2009-01-27 18:35:00,Melinda BuffaloGrove,United States,Product1,420000000000
+481,2009-01-16 12:47:00,Luc1nda London,United Kingdom,Product1,129245340000000000
+482,2009-01-02 02:50:00,Kim Newcastle,Ireland,Product1,101764440000000000
+483,2009-01-21 05:39:00,Britlyn  Norwalk,United States,Product1,6724080000000000
+484,2009-01-28 01:28:00,Adam Besancon,France,Product1,169200000000000
+485,2009-01-08 13:33:00,Mimi Monte-Carlo,Monaco,Product1,72404040000000000
+486,2009-01-22 12:09:00,Liann Monaco,Monaco,Product1,2220000000000
+487,2009-01-20 08:23:00,Sarah FloydsKnobs,United States,Product1,103302360000000000
+488,2009-01-02 07:47:00,Naseer London,United Kingdom,Product1,2163720000000000
+489,2009-01-11 04:55:00,Caroline Marietta,United States,Product1,86783700000000000
+491,2009-01-21 23:19:00,janet Hon,United States,Product1,12032880000000000
+492,2009-01-11 04:29:00,Hans Knoxville,United States,Product3,11743740000000000
+493,2009-01-11 04:39:00,Sandra  Thierry  Zoe Knoxville,United States,Product1,11744340000000000
+494,2009-01-10 08:13:00,Eleanor Edinburgh,United Kingdom,Product1,14031540000000000
+495,2009-01-22 12:55:00,Anna Paris,France,Product1,45303660000000000
+496,2009-01-17 15:00:00,Cara  Humble,United States,Product1,58493100000000000
+497,2009-01-04 14:06:00,carolien Mashpee,United States,Product1,6300000000000
+498,2009-01-30 17:09:00,Ana HongKong,Hong Kong,Product1,79281480000000000
+499,2009-01-20 05:01:00,Patrick Birmingham,United States,Product1,127500000000000
+500,2009-01-26 14:37:00,Heidi StAugustine,United States,Product1,34915020000000000
+501,2009-01-29 13:27:00,Tom SaltLakeCity,United States,Product1,81600000000000
+502,2009-01-12 10:33:00,Justine Seattle,United States,Product1,409680000000000
+503,2009-01-05 08:28:00,isabel Ruti,Switzerland,Product1,12000000000000
+504,2009-01-25 16:11:00,scott Rogers,United States,Product3,960000000000
+505,2009-01-25 20:44:00,Fatima Rogers,United States,Product1,17340000000000
+506,2009-01-26 11:36:00,Judy DunLaoghaire,Ireland,Product1,14880000000000
+507,2009-01-27 02:32:00,Glenn Perth,United Kingdom,Product1,81624000000000000
+508,2009-01-18 13:36:00,Family in London,United Kingdom,Product1,118036200000000000
+509,2009-01-07 05:53:00,Lauren Gries,Germany,Product1,11040000000000
+510,2009-01-25 01:53:00,Michael Pietermaritzburg,South Africa,Product3,46860000000000
+511,2009-01-18 11:42:00,Jodi SuttonValence,United Kingdom,Product1,5361120000000000
+512,2009-01-13 01:46:00,simone Lyngby,Denmark,Product1,38065380000000000
+513,2009-01-02 15:57:00,Sonja Alpine,United States,Product1,1920000000000
+514,2009-01-25 08:50:00,Shane Zurich,Switzerland,Product1,73620000000000
+515,2009-01-14 08:16:00,Ruth Saskatoon,Canada,Product2,13634700000000000
+516,2009-01-27 11:21:00,Cleo PacificPalisades,United States,Product1,2580000000000
+517,2009-01-08 10:13:00,Benoit FortSaintJames,Canada,Product1,65520000000000
+518,2009-01-05 07:47:00,Claire Versoix,Switzerland,Product1,54240720000000000
+519,2009-01-22 09:00:00,Claire Trumansburg,United States,Product1,17260020000000000
+520,2009-01-25 12:59:00,Lindsey KennettSquare,United States,Product1,1011060000000000
+521,2009-01-10 19:28:00,Nicola SanJose,United States,Product2,108413940000000000
+522,2009-01-08 19:29:00,PATRICK BanKhlongSip,Thailand,Product2,70080000000000
+523,2009-01-08 12:04:00,jennifer MorroBay,United States,Product1,161110260000000000
+524,2009-01-04 16:59:00,Amy Parramatta,Australia,Product1,66240000000000
+525,2009-01-30 11:56:00,Whitney Dumbleton,United Kingdom,Product1,15804600000000000
+526,2009-01-06 05:10:00,Astrid Altlengbach,Austria,Product1,16950060000000000
+527,2009-01-14 03:39:00,jo Ballincollig,Ireland,Product1,3009480000000000
+528,2009-01-14 03:47:00,Michelle Ballincollig,Ireland,Product1,3009960000000000
+529,2009-01-19 03:19:00,TG Zagore,Bulgaria,Product1,5185140000000000
+530,2009-01-07 01:42:00,Emily Vecmilgravis,Latvia,Product1,227340000000000
+531,2009-01-07 13:01:00,Niki Trelex,Switzerland,Product2,45058680000000000
+532,2009-01-27 02:35:00,Sarah Ornex,France,Product1,13118820000000000
+533,2009-01-03 14:14:00,sherry LasVegas,United States,Product1,1500000000000
+534,2009-01-22 12:37:00,Laura SanAnselmo,United States,Product2,8400000000000
+535,2009-01-29 06:49:00,Carmela Hannover,Germany,Product1,26107800000000000
+536,2009-01-06 09:45:00,Matt NWoodmere,United States,Product1,593040000000000
+537,2009-01-12 11:16:00,Karen Madrid,Spain,Product1,47106480000000000
+538,2009-01-13 13:49:00,Joanne Castlebar,Ireland,Product1,32226360000000000
+539,2009-01-12 07:23:00,Stephanie Fairfax,United States,Product1,60060000000000
+540,2009-01-30 04:48:00,Hurst Chandler,United States,Product1,19491540000000000
+541,2009-01-22 16:29:00,Liza DammeronValley,United States,Product1,436260000000000
+542,2009-01-27 06:26:00,Michele Buffalo,United States,Product1,153000000000000
+543,2009-01-15 10:16:00,Karin OliveBranch,United States,Product3,232500000000000
+544,2009-01-19 18:54:00,cath Warwick,United States,Product1,26400000000000
+545,2009-01-02 22:44:00,eva Gisborne,Australia,Product2,65776080000000000
+546,2009-01-01 18:32:00,Andrea  SanMateo,United States,Product1,91380000000000
+547,2009-01-14 01:28:00,Sabine MiltonKeynes,United Kingdom,Product1,80734680000000000
+548,2009-01-20 08:08:00,Aideen and Jonathan Kecskemet,Hungary,Product1,94740000000000
+549,2009-01-29 02:48:00,George Nakskov,Denmark,Product1,1740000000000
+550,2009-01-24 18:02:00,Helen Aloma,United States,Product1,99534540000000000
+551,2009-01-07 08:26:00,C Chandler,United States,Product1,57780000000000
+552,2009-01-24 03:36:00,chris Kjobenhavn,Denmark,Product1,311100000000000
+553,2009-01-05 15:23:00,maggie Stockton,United Kingdom,Product1,17900640000000000
+554,2009-01-25 16:17:00,Mareike Cumming,United States,Product1,79860000000000
+555,2009-01-15 10:37:00,lamia LittleCompton,United States,Product1,17364780000000000
+556,2009-01-20 15:28:00,Madhu Centennial,United States,Product1,67363440000000000
+558,2009-01-29 05:06:00,Kimberly Herndon,United States,Product1,32122860000000000
+559,2009-01-06 18:53:00,Tania Vista,United States,Product1,72960000000000
+560,2009-01-21 06:55:00,andrea Oostburg,United States,Product1,62520000000000
+561,2009-01-26 20:18:00,John Griffith,Australia,Product1,64107660000000000
+562,2009-01-25 17:58:00,carol AnnArbor,United States,Product2,17656680000000000
+563,2009-01-09 14:37:00,Nona SouthJordan,United States,Product1,84180000000000
+564,2009-01-25 02:46:00,Family Dubai,United Arab Emirates,Product2,1474020000000000
+565,2009-01-17 20:46:00,Michelle Dubai,United Arab Emirates,Product2,24171000000000000
+566,2009-01-24 07:18:00,Kathryn Kirriemuir,United Kingdom,Product2,74820000000000
+567,2009-01-11 07:09:00,Oswald Tramore,Ireland,Product1,7741560000000000
+568,2009-01-08 04:15:00,Elyssa Gdansk,Poland,Product1,47700000000000
+569,2009-01-22 10:47:00,michelle Arklow,Ireland,Product1,5649300000000000
+570,2009-01-26 20:47:00,Alicia Lincoln,United States,Product1,18708120000000000
+571,2009-01-12 12:22:00,JP Tierp,Sweden,Product1,521280000000000
+572,2009-01-26 01:44:00,Geraldine Brussels,Belgium,Product2,31148160000000000
+573,2009-01-18 12:57:00,sandra BurrOak,United States,Product1,31092360000000000
+574,2009-01-24 21:26:00,Olivia Wheaton,United States,Product1,22569840000000000
+575,2009-01-26 12:26:00,Tom Killeen,United States,Product2,25380000000000
+576,2009-01-05 07:37:00,Annette  Manhattan,United States,Product1,8737680000000000
+577,2009-01-14 12:33:00,SUSAN Oxford,United Kingdom,Product1,10761000000000000
+578,2009-01-14 00:15:00,Michael Paris,France,Product2,4061280000000000
+579,2009-01-01 12:42:00,ashton Exeter,United Kingdom,Product1,1509960000000000
+580,2009-01-06 06:07:00,Scott Rungsted,Denmark,Product1,833880000000000
+581,2009-01-15 05:11:00,Pam London,United Kingdom,Product2,79374480000000000
+582,2009-01-17 04:03:00,Lisa  Borja,Philippines,Product1,4680000000000
+583,2009-01-19 10:13:00,Pavel London,United Kingdom,Product2,91255080000000000
+584,2009-01-18 09:42:00,Richard Jamestown,United States,Product1,1200000000000
+585,2009-01-09 11:14:00,Jasinta Jeanne OwingsMills,United States,Product1,1860000000000
+586,2009-01-10 13:42:00,Rachel Hamilton,Canada,Product1,4800000000000
+587,2009-01-07 07:28:00,Cherish  Anchorage,United States,Product1,14083020000000000
+588,2009-01-18 06:46:00,Shona  Mornington,Ireland,Product1,250380000000000
+589,2009-01-30 12:18:00,Abikay Fullerton,United States,Product1,341040000000000
+590,2009-01-06 05:42:00,Abikay Atlanta,United States,Product1,6103560000000000
+591,2009-01-02 10:58:00,Kendra Toronto,Canada,Product2,1200000000000
+592,2009-01-08 03:29:00,amanda Liverpool,United Kingdom,Product1,1475280000000000
+593,2009-01-12 13:23:00,Leila PonteSanNicolo,Italy,Product2,105165660000000000
+594,2009-01-19 09:34:00,amanda LasVegas,United States,Product1,21947880000000000
+595,2009-01-09 07:49:00,Stacy RochesterHills,United States,Product1,14257860000000000
+596,2009-01-15 05:27:00,Derrick NorthBay,Canada,Product2,733500000000000
+597,2009-01-08 23:40:00,Jacob Lindfield,Australia,Product1,20880000000000
+598,2009-01-27 11:02:00,DOREEN Madrid,Spain,Product1,268860000000000
+599,2009-01-14 13:23:00,eugenia WisconsinRapids,United States,Product1,5181960000000000
+600,2009-01-07 20:01:00,Karen Austin,United States,Product1,89100000000000
+601,2009-01-20 12:32:00,Bea Chicago,United States,Product1,321840000000000
+602,2009-01-06 14:35:00,Hilde Karin LasVegas,United States,Product1,1737360000000000
+603,2009-01-04 06:51:00,Rima Mullingar,Ireland,Product1,65820000000000
+604,2009-01-24 18:30:00,Ruangrote Melbourne,Australia,Product1,16549860000000000
+605,2009-01-25 05:57:00,pamela Ayacucho,Argentina,Product1,73680000000000
+606,2009-01-05 10:02:00,Emillie Eagan,United States,Product2,3540000000000
+607,2009-01-13 09:14:00,sangeeta Vossevangen,Norway,Product1,344580000000000
+608,2009-01-22 07:35:00,Anja Ferney-Voltaire,France,Product1,2640000000000
+609,2009-01-02 11:06:00,Andrew Sevilla,Spain,Product1,88718640000000000
+610,2009-01-11 09:50:00,Bato Munchengosserstadt,Germany,Product1,338700000000000
+611,2009-01-21 20:44:00,Ailsa  Lindenhurst,United States,Product1,46620000000000
+612,2009-01-05 09:09:00,Sophie Bloomfield,United States,Product1,69560220000000000
+613,2009-01-05 12:41:00,Katrin Calgary,Canada,Product1,2843520000000000
+614,2009-01-28 12:54:00,Kelly  Vancouver,Canada,Product2,57000000000000
+615,2009-01-21 04:46:00,Tomasz Klampenborg,Denmark,Product1,19416060000000000
+616,2009-01-07 13:28:00,Elizabeth Calne,United Kingdom,Product1,260460000000000
+617,2009-01-27 11:18:00,Michael LosAngeles,United States,Product2,343860000000000
+618,2009-01-07 12:39:00,Natasha Milano,Italy,Product2,82078680000000000
+619,2009-01-24 13:54:00,Meredith Kloten,Switzerland,Product2,5040000000000
+620,2009-01-30 06:48:00,Nicole Fayetteville,United States,Product1,7020000000000
+621,2009-01-22 18:07:00,Ryan Simpsonville,United States,Product1,1386480000000000
+622,2009-01-29 15:03:00,Mary  Auckland,New Zealand,Product1,93757740000000000
+623,2009-01-02 14:14:00,Aaron Reading,United Kingdom,Product1,4055100000000000
+624,2009-01-19 11:05:00,Bertrand NorthCaldwell,United States,Product1,9349800000000000
+625,2009-01-28 16:17:00,Zoe Coventry,United Kingdom,Product1,1080000000000
+626,2009-01-08 12:46:00,Trine Marie Orillia,Canada,Product1,1950540000000000
+627,2009-01-29 16:07:00,Kim Paris,France,Product1,1320000000000
+628,2009-01-29 13:41:00,John  SanJose,United States,Product1,159118920000000000
+629,2009-01-08 06:29:00,Rich Ingelheim-Mitte,Germany,Product1,88214880000000000
+630,2009-01-04 12:53:00,Kayla LeamingtonSpa,United Kingdom,Product1,2092680000000000
+631,2009-01-14 12:55:00,Richard and Comfort Regensdorf,Switzerland,Product1,267540000000000
+632,2009-01-14 06:35:00,Eric Melbourne,Australia,Product1,14945580000000000
+633,2009-01-27 13:08:00,Melissa Geneve,Switzerland,Product1,22738680000000000
+634,2009-01-31 23:09:00,Dawn Vaucluse,Australia,Product1,138327240000000000
+635,2009-01-21 14:34:00,Tamara Klosterneuburg,Austria,Product1,1320000000000
+636,2009-01-16 08:28:00,Ashley RanchoCordova,United States,Product1,591300000000000
+637,2009-01-11 09:55:00,familly  Creemore,Canada,Product1,96060000000000
+638,2009-01-08 02:46:00,Ken Sidcup,United Kingdom,Product1,35287320000000000
+639,2009-01-26 07:11:00,Tori Minneapolis,United States,Product1,5565900000000000
+640,2009-01-31 05:39:00,Hanne Phoenix,United States,Product2,136429320000000000
+641,2009-01-09 08:35:00,Precious Edmonton,Canada,Product1,66060000000000
+642,2009-01-24 03:25:00,Michelle Lyndoch,Australia,Product1,10310520000000000
+643,2009-01-26 08:45:00,Paula Larchmont,United States,Product1,92935440000000000
+644,2009-01-23 10:45:00,Stephanie SaintCharles,United States,Product1,7140000000000
+645,2009-01-28 08:50:00,kemp Brentwood,United States,Product1,480000000000
+646,2009-01-15 19:10:00,Therese Pensacola,United States,Product2,96154620000000000
+647,2009-01-09 20:25:00,Mona Kelowna,Canada,Product1,21900000000000
+648,2009-01-15 21:53:00,Caroline Toronto,Canada,Product1,1223520000000000
+649,2009-01-12 00:17:00,Andrea BrondbyStrand,Denmark,Product1,347820000000000
+650,2009-01-25 10:32:00,Pilar Florence,Italy,Product1,193560000000000
+651,2009-01-12 23:35:00,Lisa Perth,Australia,Product1,84671640000000000
+652,2009-01-11 06:09:00,A SaintPetersburg,United States,Product1,5536920000000000
+653,2009-01-03 13:35:00,Yvette Aubonne,Switzerland,Product1,12216780000000000
+654,2009-01-18 11:03:00,Katie Gava,Spain,Product2,17220000000000
+655,2009-01-05 18:55:00,Nicole McLean,United States,Product1,23939880000000000
+656,2009-01-02 18:54:00,Kelly Hendersonville,United States,Product1,2296980000000000
+657,2009-01-13 14:44:00,george Zurich,Switzerland,Product2,2607900000000000
+658,2009-01-04 04:05:00,Samantha Watford,United Kingdom,Product1,329520000000000
+659,2009-01-27 12:47:00,Caterina Amsterdam,Netherlands,Product1,2640000000000
+660,2009-01-22 06:51:00,Kate RochesterHills,United States,Product1,3420000000000
+661,2009-01-01 21:40:00,Tina Anglesea,Australia,Product1,6318780000000000
+662,2009-01-27 18:06:00,Emily Killarney,The Bahamas,Product1,1208640000000000
+663,2009-01-10 14:59:00,Maricel Malibu,United States,Product1,720000000000
+664,2009-01-26 15:42:00,Patricia Allen,United States,Product1,3840000000000
+665,2009-01-12 14:37:00,steve Evires,France,Product1,24600000000000
+666,2009-01-16 07:58:00,Darrah DenHaag,Netherlands,Product1,40967700000000000
+667,2009-01-22 14:32:00,Sara PerthCity,Australia,Product1,12035640000000000
+668,2009-01-19 06:50:00,Erika Redruth,United Kingdom,Product1,1099260000000000
+669,2009-01-24 11:54:00,Audrey Bruxelles,Belgium,Product1,4020000000000
+670,2009-01-13 13:36:00,Louise London,United Kingdom,Product1,84083160000000000
+671,2009-01-13 11:56:00,Karen Montreal,Canada,Product1,6391140000000000
+672,2009-01-19 07:49:00,Maki MiamiBeach,United States,Product1,58980000000000
+673,2009-01-10 07:37:00,Peter Shankill,Ireland,Product1,7877880000000000
+674,2009-01-20 05:53:00,Ashlee Oxford,United Kingdom,Product1,523080000000000
+675,2009-01-06 10:34:00,Anja NewYork,United States,Product1,1860000000000
+676,2009-01-23 05:14:00,Ellen Walton  Melbourne,Australia,Product1,34862940000000000
+677,2009-01-14 16:02:00,Jessica WoodlandHills,United States,Product1,4140000000000
+678,2009-01-14 18:05:00,Wouter and Andrea Anchorage,United States,Product1,398760000000000
+679,2009-01-08 20:52:00,Pam and Rob YorbaLinda,United States,Product1,4409340000000000
+680,2009-01-07 13:57:00,Elsa Waiwera,New Zealand,Product1,1500000000000
+681,2009-01-25 10:34:00,kathleen kane JamaicaPlain,United States,Product1,487980000000000
+682,2009-01-28 04:35:00,Selene Oslo,Norway,Product1,120438300000000000
+683,2009-01-19 03:25:00,Christy Setagaya,Japan,Product1,95466960000000000
+684,2009-01-18 00:41:00,Hanna Agla Donauworth,Germany,Product2,73358040000000000
+685,2009-01-27 02:38:00,Elyse Bandon,Ireland,Product1,36609180000000000
+686,2009-01-16 06:04:00,Alexis EhingenanderDonau,Germany,Product1,97680000000000
+687,2009-01-05 05:30:00,M George Paris,France,Product1,4740000000000
+688,2009-01-09 14:55:00,John Banbury,United Kingdom,Product1,81120000000000
+689,2009-01-29 10:07:00,cheryl BeverlyHills,United States,Product1,177900000000000
+690,2009-01-27 03:55:00,R Danderyd,Sweden,Product1,74886360000000000
+691,2009-01-25 12:35:00,Charlene  Sebastopol,United States,Product2,6780000000000
+692,2009-01-03 16:56:00,Cindy Glendora,United States,Product1,151814820000000000
+693,2009-01-12 12:04:00,Ed Nacka,Sweden,Product1,34902960000000000
+694,2009-01-27 03:19:00,Astrid Canterbury,United Kingdom,Product1,8280000000000
+695,2009-01-24 09:30:00,Nicole Neuchatel,Switzerland,Product1,14760000000000
+696,2009-01-25 18:33:00,Maria Macarena Billings,United States,Product1,205080000000000
+697,2009-01-15 11:43:00,Maggie Libertyville,United States,Product1,7144860000000000
+698,2009-01-23 16:30:00,Christophe Temecula,United States,Product2,1211460000000000
+699,2009-01-05 12:57:00,Manoj Boise,United States,Product1,12300000000000
+700,2009-01-29 16:52:00,Brenda RockHill,United States,Product1,363120000000000
+701,2009-01-10 00:04:00,Lizelle  Mililani,United States,Product1,1620000000000
+702,2009-01-03 14:17:00,Kees en Valesca Scamander,Australia,Product2,1440000000000
+703,2009-01-15 09:00:00,Cormac FreeportCity,The Bahamas,Product1,3000000000000
+704,2009-01-24 20:58:00,jacqueline NorthVancouver,Canada,Product1,2351040000000000
+705,2009-01-10 11:53:00,Martin Ludwigsburg,Germany,Product1,31030380000000000
+706,2009-01-04 17:34:00,Dean Rockingham,Australia,Product1,38183100000000000
+707,2009-01-28 00:22:00,VERBENA Basel,Switzerland,Product1,10627080000000000
+708,2009-01-17 01:49:00,Angel Marie DenHaag,Netherlands,Product1,333600000000000
+709,2009-01-25 17:48:00,olla Westminster,United States,Product1,64800000000000
+710,2009-01-22 05:39:00,Eman Penclawdd,United Kingdom,Product2,662760000000000
+711,2009-01-19 15:40:00,Julia Ede,Netherlands,Product2,4080000000000
+712,2009-01-21 23:52:00,Sarah Plan-les-Ouattes,Switzerland,Product1,5166060000000000
+713,2009-01-19 13:15:00,Esther Stocksund,Sweden,Product1,51968580000000000
+714,2009-01-16 07:35:00,amy Stuttgart,Germany,Product1,71991180000000000
+715,2009-01-22 09:48:00,Jyoti TunbridgeWells,United Kingdom,Product2,32814660000000000
+716,2009-01-18 12:05:00,Keri Issaquah,United States,Product2,1096860000000000
+717,2009-01-04 10:44:00,Paul Burnaby,Canada,Product1,3335280000000000
+718,2009-01-20 14:55:00,Attie Cypress,United States,Product1,9963180000000000
+719,2009-01-02 18:41:00,odile Lititz,United States,Product1,92138040000000000
+720,2009-01-02 07:03:00,gail  London,United Kingdom,Product1,19252380000000000
+721,2009-01-21 07:19:00,Niki ChaddsFord,United States,Product1,27806040000000000
+722,2009-01-11 17:52:00,Danny StThomas,United States,Product2,167896500000000000
+723,2009-01-16 17:56:00,Sarah Coppell,United States,Product1,17940000000000
+724,2009-01-09 20:00:00,Beckie  LaderaRanch,United States,Product1,281400000000000
+725,2009-01-13 02:47:00,Maryse Rathfarnham,Ireland,Product1,720000000000
+726,2009-01-19 04:23:00,don Cagliari,Italy,Product2,32114520000000000
+727,2009-01-13 12:51:00,Majken Charlottenlund,Denmark,Product1,19936800000000000
+728,2009-01-29 07:40:00,Karen and Andrew Munchen,Germany,Product1,173744220000000000
+729,2009-01-21 04:34:00,Katerina Firenze,Italy,Product1,23513820000000000
+730,2009-01-07 13:28:00,Mary BaileAthaBui,Ireland,Product1,104017560000000000
+731,2009-01-26 16:47:00,Oscar Chamonix-Mont-Blanc,France,Product1,42840000000000
+732,2009-01-29 01:01:00,Suejean Gingins,Switzerland,Product1,758820000000000
+733,2009-01-25 12:55:00,ann BocaRaton,United States,Product1,4310940000000000
+734,2009-01-24 13:35:00,Renee Chaska,United States,Product1,85450080000000000
+735,2009-01-28 13:30:00,Catherine HghlndsRanch,United States,Product1,1620000000000
+736,2009-01-20 19:08:00,Rhonda Atlanta,United States,Product1,5231760000000000
+737,2009-01-29 17:13:00,alix Tenafly,United States,Product1,35786820000000000
+738,2009-01-02 05:33:00,Mike Aberdeen,United Kingdom,Product1,132799200000000000
+739,2009-01-31 11:03:00,Diane Djurgarden,Sweden,Product1,544500000000000
+740,2009-01-13 09:16:00,Sigrun Nashville,United States,Product1,44880000000000
+741,2009-01-19 12:38:00,Dania Munich,Germany,Product1,3060000000000
+742,2009-01-18 12:14:00,Kelsi Utrecht,Netherlands,Product2,3228240000000000
+743,2009-01-22 10:59:00,Maria Boyceville,United States,Product1,1716600000000000
+744,2009-01-14 07:30:00,Bent Erik Basauri,Spain,Product1,29910840000000000
+745,2009-01-19 01:52:00,Kirsten Melbourne,Australia,Product1,54940560000000000
+746,2009-01-08 23:00:00,Dickson Kemerburgaz,Turkey,Product1,9924780000000000
+747,2009-01-25 07:29:00,Howard Worcester,United Kingdom,Product1,235620000000000
+748,2009-01-17 15:19:00,Dana Thurles,Ireland,Product1,194760000000000
+749,2009-01-23 12:23:00,Nola DenHaag,Netherlands,Product1,4320000000000
+750,2009-01-24 08:45:00,Elizabeth CosCob,United States,Product1,6631200000000000
+751,2009-01-27 03:45:00,minjeong Bern,Switzerland,Product2,3960000000000
+752,2009-01-29 23:48:00,Matt Leicester,United Kingdom,Product1,6541140000000000
+753,2009-01-03 18:43:00,Vanessa Cornwall,Canada,Product1,79092420000000000
+754,2009-01-24 17:18:00,Charlotte Sterling,United States,Product2,29727840000000000
+755,2009-01-02 15:13:00,Rowena Cork,Ireland,Product1,94032480000000000
+756,2009-01-08 10:44:00,Catherine MountForest,Canada,Product1,164460000000000
+757,2009-01-29 08:13:00,Sarah Ridgefield,United States,Product1,31688280000000000
+758,2009-01-24 10:26:00,sorcha PortoAlegre,Brazil,Product1,20340000000000
+759,2009-01-24 12:56:00,sorcha Cartierville,Canada,Product1,1005720000000000
+760,2009-01-07 13:38:00,Mary Stuttgart,Germany,Product1,86280000000000
+761,2009-01-23 15:38:00,Ronja Manhattan,United States,Product1,520380000000000
+762,2009-01-26 14:43:00,Nicola  Sneem,Ireland,Product1,2880000000000
+763,2009-01-17 20:33:00,BURCAK Alpharetta,United States,Product1,724020000000000
+764,2009-01-05 09:15:00,isabelle Sainte-Therese-de-Blainville,Canada,Product1,11835120000000000
+765,2009-01-20 08:16:00,christy Germantown,United States,Product1,1208580000000000
+766,2009-01-29 12:46:00,Lilly Castleknock,Ireland,Product1,852360000000000
+767,2009-01-15 18:12:00,Mandy Hono,United States,Product1,61966260000000000
+768,2009-01-23 13:55:00,Elena NewRochelle,United States,Product1,109291680000000000
+769,2009-01-26 10:26:00,Lolarae Calgary,Canada,Product1,600000000000
+770,2009-01-12 11:48:00,Lisa SouthWaterford,United States,Product1,48113400000000000
+771,2009-01-29 15:20:00,Nita and Trebor WashingtonTownship,United States,Product1,930780000000000
+772,2009-01-28 07:26:00,Jenevieve Guelph,Canada,Product1,390120000000000
+773,2009-01-14 00:03:00,Piret Bunbury,Australia,Product2,18250860000000000
+774,2009-01-13 01:55:00,Damian Mettlach,Germany,Product1,87881160000000000
+775,2009-01-12 23:21:00,Lusell Oberwil,Switzerland,Product1,592440000000000
+776,2009-01-22 02:16:00,Costanza Beykoz,Turkey,Product1,11802780000000000
+777,2009-01-29 12:53:00,Vanessa Arc-et-Senans,France,Product1,9780000000000
+778,2009-01-28 11:36:00,Evelyn Grossbodungen,Germany,Product1,1680000000000
+779,2009-01-19 06:50:00,Nicola Bruxelles,Belgium,Product1,16399260000000000
+780,2009-01-30 05:20:00,Simone Kilcornan,Ireland,Product1,4440000000000
+781,2009-01-19 14:06:00,Elisabeth Wilmington,United States,Product1,5100000000000
+782,2009-01-08 09:43:00,Kasey Aix-en-Provence,France,Product1,261480000000000
+783,2009-01-23 09:09:00,Olympe Lidingo,Sweden,Product2,95116800000000000
+784,2009-01-20 08:58:00,James Edmonton,Canada,Product1,2300820000000000
+785,2009-01-02 13:35:00,Alyssa Antibes,France,Product1,13568580000000000
+786,2009-01-09 15:03:00,Reto Seattle,United States,Product1,72240000000000
+787,2009-01-23 07:04:00,Joelle Rowayton,United States,Product1,245880000000000
+788,2009-01-17 10:14:00,Nicole Simcoe,Canada,Product1,8880000000000
+789,2009-01-19 16:16:00,Alexandria Lebanon,United States,Product1,11911800000000000
+790,2009-01-20 13:54:00,Elisabeth Birkdale,Australia,Product1,97339740000000000
+791,2009-01-23 21:35:00,Ann Brisbane,Australia,Product1,55562520000000000
+792,2009-01-21 23:41:00,Olga Strasbourg,France,Product1,30480960000000000
+793,2009-01-21 04:11:00,Courtney Suchdol,Czech Republic,Product1,9739920000000000
+794,2009-01-10 03:43:00,stacy Stuttgart,Germany,Product1,89988120000000000
+795,2009-01-15 18:08:00,Monica Villanova,United States,Product2,262320000000000
+796,2009-01-20 14:48:00,Michael Norrkoping,Sweden,Product2,2602740000000000
+797,2009-01-21 11:56:00,Katrin Zumikon,Switzerland,Product1,89591160000000000
+798,2009-01-30 06:18:00,Louise Balgach,Switzerland,Product2,96089880000000000
+799,2009-01-12 17:28:00,Alfredo A LasVegas,United States,Product1,3467760000000000
+800,2009-01-29 08:27:00,Kerry Prague,Czech Republic,Product2,171240000000000
+801,2009-01-24 12:43:00,Saeko  Warwick,United States,Product1,30830760000000000
+802,2009-01-07 10:49:00,VIOLETA SilverSpring,United States,Product2,11050800000000000
+803,2009-01-11 17:06:00,Antje Sacramento,United States,Product1,10029240000000000
+804,2009-01-30 06:17:00,janet Blarney,Ireland,Product1,11700000000000
+805,2009-01-07 10:52:00,claire  Ballyneety,Ireland,Product1,4200000000000
+806,2009-01-27 06:20:00,Nathalie Haymarket,United States,Product1,83873760000000000
+807,2009-01-21 20:02:00,Daria GeorgeTown,Cayman Isls,Product1,964380000000000
+808,2009-01-04 16:23:00,Judith L. Scottsdale,United States,Product1,1140000000000
+809,2009-01-06 12:26:00,Audinet Cambridge,United States,Product1,13560000000000
+810,2009-01-11 04:34:00,William ChalfontSaintPeter,United Kingdom,Product1,85602120000000000
+811,2009-01-17 06:39:00,Tatjana and Martin Birmingham,United Kingdom,Product1,32053140000000000
+812,2009-01-04 03:41:00,Scott DenHaag,Netherlands,Product1,126197880000000000
+813,2009-01-12 05:50:00,Brona DenHaag,Netherlands,Product3,126896820000000000
+814,2009-01-03 13:43:00,Andree Newmarket,Ireland,Product1,69461040000000000
+815,2009-01-11 06:51:00,Aziz Irpin',Ukraine,Product1,24660000000000
+816,2009-01-17 06:23:00,Fernando Grosseto,Italy,Product1,10092900000000000
+817,2009-01-26 18:38:00,Jo PembrokePines,United States,Product1,8000040000000000
+818,2009-01-31 13:26:00,Joern Waterford,Canada,Product1,4216440000000000
+819,2009-01-21 02:20:00,Melissa Carouge,Switzerland,Product2,414840000000000
+820,2009-01-18 13:25:00,Melissa Chester,United States,Product1,264480000000000
+821,2009-01-18 18:57:00,isabela Reston,United States,Product1,1593660000000000
+822,2009-01-31 01:59:00,Nacole Milan,Italy,Product1,120179940000000000
+823,2009-01-25 16:08:00,Jennifer Vancouver,Canada,Product1,71760000000000
+824,2009-01-16 19:13:00,Mary Alpharetta,United States,Product1,1849500000000000
+825,2009-01-31 15:25:00,Lisa Ringgold,United States,Product1,279060000000000
+826,2009-01-09 08:57:00,Debora  Wall,United States,Product1,30580200000000000
+827,2009-01-04 22:18:00,Karoline  PowellRiver,Canada,Product2,3305520000000000
+828,2009-01-10 15:18:00,Jo  HuntingtonBeach,United States,Product2,38967720000000000
+829,2009-01-16 19:47:00,Kristen LosGatos,United States,Product1,255480000000000
+830,2009-01-25 08:16:00,Astrid Oslo,Norway,Product2,55663020000000000
+831,2009-01-25 08:48:00,Malinda Oxford,United Kingdom,Product1,25471680000000000
+832,2009-01-17 09:12:00,Sylvia Alexandria,United States,Product1,65040540000000000
+833,2009-01-24 01:22:00,Jupiterlina Elika Rome,Italy,Product1,134606640000000000
+834,2009-01-27 15:09:00,Aniko RandomLake,United States,Product1,1045140000000000
+835,2009-01-25 21:49:00,Petra SanFrancisco,United States,Product1,159240000000000
+836,2009-01-24 08:51:00,Heather Baluan,Philippines,Product1,423780000000000
+837,2009-01-06 14:08:00,Kim Brussels,Belgium,Product1,1667040000000000
+838,2009-01-17 14:06:00,Ruby BedfordCorners,United States,Product1,130532880000000000
+839,2009-01-21 12:38:00,Novy  Istanbul,Turkey,Product1,61862100000000000
+840,2009-01-30 23:49:00,Stephanie Hilversum,Netherlands,Product2,5313300000000000
+841,2009-01-12 12:00:00,Tammy Milford,United States,Product1,16427460000000000
+842,2009-01-29 21:40:00,Alessandra Vancouver,Canada,Product1,19534620000000000
+843,2009-01-24 13:38:00,Cathy Kidderminster,United Kingdom,Product1,2886060000000000
+844,2009-01-25 13:50:00,Scott Lausanne,Switzerland,Product2,13260000000000
+845,2009-01-12 13:41:00,dia Claygate,United Kingdom,Product1,44230680000000000
+846,2009-01-05 11:44:00,Lauren Laasby,Denmark,Product1,4088940000000000
+847,2009-01-02 08:31:00,Line Budaors,Hungary,Product1,6135360000000000
+848,2009-01-31 07:13:00,Sean London,United Kingdom,Product1,34013640000000000
+849,2009-01-20 02:17:00,Sarah SantoDomingoCity,Dominican Republic,Product1,6223860000000000
+850,2009-01-25 20:15:00,Brian CrotonOnHudson,United States,Product1,164520000000000
+851,2009-01-25 19:44:00,Lesa Vespasiano,Brazil,Product1,127866420000000000
+852,2009-01-30 09:00:00,james Nashville,United States,Product1,49721100000000000
+853,2009-01-07 19:18:00,loudon Ottawa,Canada,Product1,37320720000000000
+854,2009-01-04 10:18:00,Allison Naples,United States,Product1,4926960000000000
+855,2009-01-23 14:57:00,Surat Bridgewater,United States,Product1,15389820000000000
+856,2009-01-12 10:08:00,Judy Washington,United States,Product2,19519500000000000
+857,2009-01-19 04:22:00,brian Hagen,France,Product1,52606800000000000
+858,2009-01-21 21:37:00,Rachel Taicheng,China,Product1,54780000000000
+859,2009-01-25 04:34:00,Hilde Groningen,Netherlands,Product1,1466280000000000
+860,2009-01-30 01:09:00,Tarja Villars,Switzerland,Product1,5257800000000000
+861,2009-01-26 15:16:00,Megan Huntersville,United States,Product1,3006420000000000
+862,2009-01-15 15:56:00,Charmain Cartersburg,United States,Product2,32763900000000000
+863,2009-01-02 20:47:00,Katharina FlowerMound,United States,Product1,8725800000000000
+864,2009-01-25 09:36:00,Zaneta  Rochester,United States,Product1,82800000000000
+865,2009-01-20 20:09:00,Jeannette Dubai,United Arab Emirates,Product1,209460000000000
+866,2009-01-08 11:14:00,Liz Langnau,Switzerland,Product2,89340000000000
+867,2009-01-06 20:39:00,Christiane Mission,Canada,Product2,39300000000000
+868,2009-01-06 18:10:00,Cherie Columbus,United States,Product1,1310280000000000
+869,2009-01-11 06:46:00,Shiree Clondalkin,Ireland,Product2,43635480000000000
+870,2009-01-19 14:26:00,Tracey Harold'sCross,Ireland,Product1,1126920000000000
+871,2009-01-31 06:14:00,Scott  SagHarbor,United States,Product1,18842340000000000
+872,2009-01-06 09:31:00,Frances SanDiego,United States,Product1,195180000000000
+873,2009-01-21 07:31:00,Beatrice Wilmington,United States,Product1,26071680000000000
+874,2009-01-20 17:23:00,Jessica Toronto,Canada,Product2,31620120000000000
+875,2009-01-29 12:10:00,Alison Issaquah,United States,Product1,39278700000000000
+876,2009-01-24 23:21:00,elaine Phuket,Thailand,Product1,2040000000000
+877,2009-01-28 10:37:00,Chevonne Athina,Greece,Product1,22918260000000000
+878,2009-01-30 14:36:00,danielle Geneve,Switzerland,Product1,2760000000000
+879,2009-01-21 02:07:00,Caroline and Jonathan Chichester,United Kingdom,Product1,92575440000000000
+880,2009-01-26 06:37:00,manuela Massagno,Switzerland,Product1,20371320000000000
+881,2009-01-04 14:27:00,Carole Cardiff,United Kingdom,Product1,96522000000000000
+882,2009-01-09 03:03:00,Ghislaine Ferney-Voltaire,France,Product2,24786600000000000
+883,2009-01-08 19:26:00,Christian Mableton,United States,Product2,35023320000000000
+884,2009-01-10 16:02:00,Hollie SanDiego,United States,Product1,39409140000000000
+885,2009-01-06 06:31:00,mike LaLouviere,Belgium,Product1,263220000000000
+886,2009-01-23 13:13:00,Malahat Minneapolis,United States,Product1,57111420000000000
+887,2009-01-18 17:55:00,Michaela Mafra,Brazil,Product1,27245760000000000
+888,2009-01-05 15:15:00,Amy Ashford,United Kingdom,Product1,106837860000000000
+889,2009-01-02 10:32:00,Brandi Edmonton,Canada,Product1,760140000000000
+890,2009-01-25 09:27:00,erin London,United Kingdom,Product1,75495120000000000
+891,2009-01-05 06:12:00,Tracy Lucca,Italy,Product1,85980000000000
+892,2009-01-06 02:41:00,Polyxene Perth,Australia,Product1,98679300000000000
+893,2009-01-27 14:42:00,Jean Arlington,United States,Product2,1654860000000000
+894,2009-01-08 12:03:00,Andrea Calgary,Canada,Product1,12773100000000000
+895,2009-01-29 12:16:00,Jessica Chiefland,United States,Product1,159600000000000
+896,2009-01-19 10:47:00,David Stavenger,Norway,Product1,507240000000000
+897,2009-01-08 02:49:00,Caroline Begnins,Switzerland,Product2,81300000000000
+898,2009-01-19 17:40:00,Riche Lou Newton,United States,Product1,58702740000000000
+899,2009-01-11 00:15:00,Chris DenHaag,Netherlands,Product1,53122080000000000
+900,2009-01-16 05:12:00,Karen Berikon,Switzerland,Product2,39285660000000000
+901,2009-01-19 06:52:00,melanie SantaBarbaraa,Costa Rica,Product1,420000000000
+902,2009-01-26 01:14:00,beatrice Churra,Spain,Product1,256620000000000
+903,2009-01-30 10:31:00,lorna CastleRock,United States,Product1,10000800000000000
+904,2009-01-23 05:52:00,Tary Zug,Switzerland,Product1,16200000000000
+905,2009-01-07 09:54:00,Julie  Ashford,United Kingdom,Product1,2220000000000
+906,2009-01-01 16:44:00,Julie  Rockville,United States,Product1,9612480000000000
+907,2009-01-23 09:27:00,Jerome Madrid,Spain,Product1,29316360000000000
+908,2009-01-22 12:56:00,Laleh Aasgaardstrand,Norway,Product1,171780000000000
+909,2009-01-16 13:35:00,Michael Milano,Italy,Product1,3120000000000
+910,2009-01-13 09:26:00,Kerry Anieres,Switzerland,Product1,93730260000000000
+911,2009-01-25 11:35:00,Anita Fresno,United States,Product3,94260000000000
+912,2009-01-26 14:02:00,Veronique Fresno,United States,Product1,189480000000000
+913,2009-01-07 13:26:00,Sarah Warwick,Canada,Product1,172022880000000000
+914,2009-01-15 11:45:00,Simone Watford,United Kingdom,Product1,11522640000000000
+915,2009-01-27 12:02:00,Jackie Waterford,Ireland,Product1,27900660000000000
+916,2009-01-28 14:09:00,giovanna Pruszkow,Poland,Product1,1740000000000
+917,2009-01-23 07:13:00,Elizabeth Hamilton,Bermuda,Product1,349800000000000
+918,2009-01-22 15:59:00,Lisa Ottawa,Canada,Product2,109860000000000
+919,2009-01-16 10:27:00,Maki Montgomery,United States,Product1,92100000000000
+920,2009-01-26 22:45:00,Anjan Tokyo,Japan,Product1,22129920000000000
+921,2009-01-25 18:33:00,Sarah Manteno,United States,Product1,9420000000000
+922,2009-01-16 06:13:00,Niamh Benoni,South Africa,Product1,3060000000000
+923,2009-01-12 17:19:00,elizabeth r WinterHaven,United States,Product2,3660000000000
+924,2009-01-02 04:21:00,Elaine Tranby,Norway,Product1,45074340000000000
+925,2009-01-05 03:03:00,Elizabeth Cork,Ireland,Product1,19768380000000000
+926,2009-01-15 15:22:00,Sara FortLauderdale,United States,Product1,766980000000000
+927,2009-01-26 05:38:00,Tulin CranberryTwp,United States,Product2,10317480000000000
+928,2009-01-24 10:38:00,Kenneth Arlington,United States,Product1,4260000000000
+929,2009-01-02 07:30:00,Fiona LakeRonkonkoma,United States,Product1,5815800000000000
+930,2009-01-26 06:38:00,Christian Alexandria,United States,Product1,73500000000000
+931,2009-01-17 07:56:00,Michel Lipari,Italy,Product3,1860000000000
+932,2009-01-17 07:58:00,natalie Lipari,Italy,Product3,1980000000000
+933,2009-01-18 04:32:00,jure Lipari,Italy,Product1,76020000000000
+934,2009-01-26 08:00:00,Elizabeth  Bluffton,United States,Product1,247680000000000
+935,2009-01-11 08:41:00,Juliann WinterSpgs,United States,Product1,31886220000000000
+936,2009-01-21 10:32:00,Julie  Chelmsford,United States,Product1,52612620000000000
+937,2009-01-29 12:27:00,philippa katherine Cabinteely,Ireland,Product1,70270620000000000
+938,2009-01-13 13:19:00,Anthony Toronto,Canada,Product2,89316480000000000
+939,2009-01-31 18:12:00,matthew Cincinnati,United States,Product1,89446980000000000
+940,2009-01-22 15:35:00,Steven Houston,United States,Product1,28766280000000000
+941,2009-01-05 11:24:00,Angie Rodeo,United States,Product1,29874840000000000
+942,2009-01-23 11:23:00,Lauren Poughkeepsie,United States,Product1,12966360000000000
+943,2009-01-07 20:55:00,Esther Cincinnati,United States,Product1,1800000000000
+944,2009-01-13 09:40:00,Elizabeth NorthEastham,United States,Product1,125073060000000000
+945,2009-01-25 15:18:00,marie-louise Sitka,United States,Product2,28425060000000000
+946,2009-01-30 20:58:00,Tanya Carcross,Canada,Product2,24780000000000
+947,2009-01-31 04:50:00,Detlev Taby,Sweden,Product1,1655220000000000
+948,2009-01-20 10:05:00,Stephen Calgary,Canada,Product2,948540000000000
+949,2009-01-09 05:15:00,Roza Alcobendas,Spain,Product1,10526820000000000
+950,2009-01-13 07:09:00,John Chicago,United States,Product2,408000000000000
+951,2009-01-03 11:03:00,paula Sammamish,United States,Product1,130800000000000
+952,2009-01-17 20:51:00,Kathryn WaiauPa,New Zealand,Product1,946740000000000
+953,2009-01-05 07:55:00,Isabelle EwaBeach,United States,Product1,432900000000000
+954,2009-01-25 14:40:00,Maureen Statesville,United States,Product1,2880000000000
+955,2009-01-25 17:55:00,David Kapaa,United States,Product1,106620000000000
+956,2009-01-03 12:54:00,caterina Burbank,United States,Product1,360900000000000
+957,2009-01-22 03:57:00,Parth Oegstgeest,Netherlands,Product2,134460000000000
+958,2009-01-23 05:11:00,Alexia Blackrock,Ireland,Product1,16581060000000000
+959,2009-01-25 11:52:00,Gloria Gail  WalcProduct3ee,Austria,Product2,24540000000000
+960,2009-01-10 04:12:00,Gloria Gail  Foxrock,Ireland,Product1,246780000000000
+961,2009-01-10 09:32:00,Cheryl HiltonHead,United States,Product2,126186780000000000
+962,2009-01-22 12:45:00,Frank and Christelle ValleyCenter,United States,Product3,8400000000000
+963,2009-01-06 18:11:00,Triona Swampscott,United States,Product2,81422040000000000
+964,2009-01-19 05:56:00,Allison Edinburgh,United Kingdom,Product1,15184680000000000
+965,2009-01-25 10:50:00,Phillip SanAntonio,United States,Product1,20789940000000000
+966,2009-01-14 08:38:00,jingyan Bristol,United States,Product1,58209840000000000
+967,2009-01-02 17:24:00,clara Perth,Australia,Product2,72240000000000
+968,2009-01-07 18:15:00,Selma Greenville,United States,Product1,172740000000000
+969,2009-01-03 21:19:00,Doug and Tina PlsVrdsEst,United States,Product1,32480400000000000
+970,2009-01-04 05:13:00,Lauren HradecKralove,Czech Republic,Product1,89526120000000000
+971,2009-01-04 09:28:00,Jen Maidstone,United Kingdom,Product1,109365060000000000
+972,2009-01-02 04:34:00,gladys SaintAlbans,United Kingdom,Product1,94004040000000000
+973,2009-01-22 11:10:00,Gustavo Voluntari,Romania,Product1,15379080000000000
+974,2009-01-07 12:06:00,Erica Nadur,Malta,Product1,87645840000000000
+975,2009-01-29 13:25:00,Hale Morrison,United States,Product1,102193860000000000
+976,2009-01-27 02:57:00,Rosemary Cobham,United Kingdom,Product1,420000000000
+977,2009-01-07 13:19:00,Darian Izmir,Turkey,Product1,11598360000000000
+978,2009-01-23 10:04:00,Kevin Hollywood,United States,Product1,83684340000000000
+979,2009-01-19 04:55:00,Alyssa Brighton,United Kingdom,Product1,28927680000000000
+980,2009-01-28 22:02:00,Hale Hawera,New Zealand,Product1,430260000000000
+981,2009-01-04 18:57:00,KELI Worongary,Australia,Product1,1050000000000000
+982,2009-01-12 20:31:00,Glen Atlantida,Guatemala,Product1,531480000000000
+983,2009-01-24 12:00:00,T ElEscorial,Spain,Product1,2148060000000000
+984,2009-01-28 11:19:00,christal Morrison,United States,Product1,145389780000000000
+985,2009-01-07 17:48:00,Alex Augusta,United States,Product1,112915380000000000
+986,2009-01-23 12:42:00,Anke Avalon,Australia,Product2,28148640000000000
+987,2009-01-07 19:48:00,TRICIA Sydney,Australia,Product2,9327540000000000
+988,2009-01-26 11:19:00,smith Lahti,Finland,Product1,1922040000000000
+989,2009-01-05 13:23:00,Macy InnerCity,Austria,Product1,6900000000000
+990,2009-01-26 13:41:00,Lesleigh Baden,Switzerland,Product1,102917880000000000
+991,2009-01-20 10:42:00,esther Huddersfield,United Kingdom,Product2,5220000000000
+992,2009-01-22 14:25:00,Hans-Joerg Belfast,United Kingdom,Product1,6315000000000000
+993,2009-01-28 05:36:00,Christiane BlackRiver,Mauritius,Product2,1632360000000000
+994,2009-01-01 04:24:00,Pamela Skaneateles,United States,Product3,298560000000000
+995,2009-01-08 11:55:00,julie Haverhill,United Kingdom,Product1,66608640000000000
+996,2009-01-12 21:30:00,Julia  Madison,United States,Product1,4835160000000000
